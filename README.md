@@ -1,0 +1,2 @@
+# NewsX
+News reading platform
